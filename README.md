@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there, I'm Sattu 👋
 
-<!--
-**satvi-vadgama/satvi-vadgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I'm a student, creator, and coder in the making!
+💖 Learning C++, Web Dev, DSA, and more!
+🎨 I love dancing, singing, drawing & making cute things
+🌱 Currently building my coding portfolio
+📚 Hackathon participant at Hackathon 2k25
 
-Here are some ideas to get you started:
+### 🔧 Skills I'm learning
+- HTML, CSS, JavaScript
+- jQuery, Bootstrap
+- C++, Data Structures
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌈 Let's connect!
+📫 Email: vadgamasatvi@email.com  
+🌐 Portfolio: coming soon...
+
+> “Coding is like art — messy, colorful, and full of surprises!”
