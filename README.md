@@ -1,4 +1,4 @@
-# Hey there, I'm Sattu 👋
+# Hey there, I'm Satvi 👋
 
 ✨ I'm a student, creator, and coder in the making!
 💖 Learning C++, Web Dev, DSA, and more!
